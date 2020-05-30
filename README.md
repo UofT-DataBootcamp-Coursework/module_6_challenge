@@ -20,6 +20,7 @@ Software: Python 3.7.6 with Pandas, citipy dependencies; Anaconda; Jupyter Noteb
 APIs: gmaps, openweathermap
 
 ## Challenge Summary
+
 ![](image/WeatherPy_vacation_map.png)
 
 ![](image/WeatherPy_vacation_map_with_popup.png)
@@ -27,3 +28,5 @@ APIs: gmaps, openweathermap
 ![](image/WeatherPy_travel_map.png)
 
 ![](image/WeatherPy_travel_map_markers.png)
+
+
