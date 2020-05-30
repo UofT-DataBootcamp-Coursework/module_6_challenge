@@ -23,7 +23,7 @@ APIs: gmaps, openweathermap
 
 ## Challenge Summary
 
-### WeatherPy Vacation Map
+### WeatherPy Vacation Map based on criteria (min temp=45F, max temp=70F, rain=yes, snow=no, *taken May 28,2020)
 
 ![](image/WeatherPy_vacation_map.png)
 
@@ -31,7 +31,7 @@ APIs: gmaps, openweathermap
 
 ![](image/WeatherPy_vacation_map_with_popup.PNG)
 
-### WeatherPy Travel Map
+### WeatherPy Travel Map -> destination Ethiopia with driving directions to 4 different cities based on criteria noted above 
 
 ![](image/WeatherPy_travel_map.PNG)
 
