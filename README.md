@@ -21,6 +21,9 @@ APIs: gmaps, openweathermap
 
 ## Challenge Summary
 ![](image/WeatherPy_vacation_map.png)
+
 ![](image/WeatherPy_vacation_map_with_popup.png)
+
 ![](image/WeatherPy_travel_map.png)
+
 ![](image/WeatherPy_travel_map_markers.png)
