@@ -23,10 +23,10 @@ APIs: gmaps, openweathermap
 
 ![](image/WeatherPy_vacation_map.png)
 
-![](image/WeatherPy_vacation_map_with_popup.png)
+![](image/WeatherPy_vacation_map_with_popup.PNG)
 
-![](image/WeatherPy_travel_map.png)
+![](image/WeatherPy_travel_map.PNG)
 
-![](image/WeatherPy_travel_map_markers.png)
+![](image/WeatherPy_travel_map_markers.PNG)
 
 
