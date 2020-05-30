@@ -16,16 +16,26 @@ The goals for this challenge are to:
 ## Resources
 
 Data Source: WeatherPy_challenge.csv and WeatherPy_vacation.csv
-Software: Python 3.7.6 with Pandas, citipy dependencies; Anaconda; Jupyter Notebook
+
+Software: Python 3.7.6 with pandas, numpy, citipy, and requests dependencies; Anaconda; Jupyter Notebook
+
 APIs: gmaps, openweathermap
 
 ## Challenge Summary
 
+### WeatherPy Vacation Map
+
 ![](image/WeatherPy_vacation_map.png)
+
+### WeatherPy Vacation Map with Pop Up Markers
 
 ![](image/WeatherPy_vacation_map_with_popup.PNG)
 
+### WeatherPy Travel Map
+
 ![](image/WeatherPy_travel_map.PNG)
+
+### WeatherPy Travel Map with Pop Up Markers
 
 ![](image/WeatherPy_travel_map_markers.PNG)
 
